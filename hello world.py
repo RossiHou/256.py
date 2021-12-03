@@ -1,1 +1,2 @@
-print("\tpython\n\tjava")
+name = input(": ")
+print(name)
